@@ -65,8 +65,8 @@ public class Main {
             switch (action){
 
                 case 6:
-                    System.out.println("Playlist completed");
-                    quit = true;
+                    System.out.println("Exit");
+                    //quit = true;
                     break;
 
                 case 1:
